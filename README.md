@@ -19,6 +19,8 @@ The goal of this project is to develop a full-stack web application using the cr
 
 2. Implement login/logout functionality. You can use the free-tier of Auth0 and their SDK, or any other approach you prefer. Make sure to secure your APIs so only authorized users can access them.
 
+3. For storying book data you don't need to use database.  You can load the data from a file that has some sample book infromation and keep everything in memory.
+
 ### UI Design
 
 1. Your application should have at least three views: A Login view, a Search view, and a Favorites view.
